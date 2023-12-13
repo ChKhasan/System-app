@@ -310,6 +310,7 @@ export default {
   position: absolute;
   align-items: center;
   justify-content: center;
+  top: 0;
 }
 
 .status-inactive {

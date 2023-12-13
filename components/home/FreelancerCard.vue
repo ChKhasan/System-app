@@ -111,11 +111,9 @@
           </div>
         </div>
         <div class="flex justify-between xl:hidden">
-          <div
-            class="bg-apple-grey text-xs font-medium text-grey-64 px-4 flex items-center rounded-[22px] h-[28px]"
-          >
-            Adobe Photoshop
-          </div>
+          <h4 class="text-[14px] font-medium text-black truncate name whitespace-normal">
+            Andrew Hayes
+          </h4>
           <p
             :class="{ online: true }"
             class="text-[14px] text-grey-24 flex gap-[4px] items-center"
@@ -134,11 +132,9 @@
       </div>
     </div>
     <div class="justify-between hidden xl:flex mt-4">
-      <div
-        class="bg-apple-grey text-xs font-medium text-grey-64 px-4 flex items-center rounded-[22px] h-[28px]"
-      >
-        Adobe Photoshop
-      </div>
+      <h4 class="text-[15px] font-medium text-black truncate name whitespace-normal">
+            35 000 so'm
+          </h4>
       <p
         :class="{ online: true }"
         class="text-[14px] text-grey-24 flex gap-[4px] items-center"
